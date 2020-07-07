@@ -1,0 +1,4 @@
+module.exports = {
+    checklink:"<부여받은 자가진단 링크>",
+    webhook:"<알림을 받을 디스코드 웹훅 링크>"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "selfcheck",
+  "version": "1.0.0",
+  "description": "자가진단 자동화",
+  "main": "index.js",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.0",
+    "puppeteer": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bfdev",
+  "license": "ISC"
+}
